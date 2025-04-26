@@ -1,2 +1,10 @@
 # Car-Dataset-Analysis-Masterschool
-Car Dataset Analysis Masterschool - Cleaning Data and Visualization
+Hi everyone, Let me walk you through some key insights we’ve uncovered from our vehicle dataset that could be important for understanding trends in pricing, performance, and fuel efficiency.
+
+When we looked at fuel efficiency across different transmission types, one trend stood out clearly: vehicles with Direct Drive systems—which are typically electric vehicles—achieve much higher miles per gallon (MPG) than any other type. These vehicles are far more efficient both in city and highway driving. In contrast, traditional transmissions like Automatic and Manual deliver moderate MPG, while vehicles with unknown transmission types are the least fuel-efficient. And also we realised that the more Horse Power Engine has the Manifactures Retail Price is Higher
+
+In terms of drivetrain types, we found that vehicles with Rear Wheel Drive and All Wheel Drive tend to be more expensive on average. This makes sense since many luxury or performance vehicles fall into these categories. On the other hand, Front Wheel Drive vehicles are generally priced lower, which aligns with them being more commonly used in compact, budget-friendly cars.
+
+Digging into the relationships between key vehicle features, we found that vehicles with higher horsepower tend to have higher price tags—so performance definitely drives cost. However, this comes with a trade-off: as horsepower goes up, fuel efficiency goes down. So manufacturers and buyers face a clear choice between performance and fuel savings. Interestingly, vehicles that perform well in city MPG also perform well on highways, which shows that fuel efficiency is generally consistent across driving conditions.
+
+In short, the data is telling us that electric vehicles are leading in efficiency, performance drives cost, and that there’s a balance to strike between power and fuel economy depending on the target market. These insights can help guide product strategy, pricing decisions, and marketing focus based on what matters most to different customer segments.
